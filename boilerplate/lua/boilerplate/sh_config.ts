@@ -3,7 +3,7 @@ LogDebug("sh_config initialization");
 
 // ----- Configuration ----- //
 
-const pvtryan: pvtryan = {
+const boilerplate: boilerplate = {
     config: {
         // Debug mode, useful for development
         debug: true,
@@ -12,7 +12,7 @@ const pvtryan: pvtryan = {
 
 //----- Interfaces -----//
 
-interface pvtryan {
+interface boilerplate {
     config: Config;
 }
 

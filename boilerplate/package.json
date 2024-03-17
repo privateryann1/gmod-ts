@@ -1,9 +1,9 @@
 {
-  "name": "pvtryan",
+  "name": "boilerplate",
   "version": "1.0.0",
   "description": "A simple project to test TypeScript to Lua",
   "scripts": {
-    "build": "tstl --outDir ../addons/pvtryan/lua/ && node ../postprocess.js"
+    "build": "tstl --outDir ../addons/boilerplate/lua/ && node ../postprocess.js"
   },
   "devDependencies": {
     "typescript": "^5.3.3",

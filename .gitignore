@@ -1,4 +1,4 @@
-pvtryan/node_modules/*
-pvtryan/@types/*
-pvtryan/package-lock.json
+*/node_modules/*
+*/@types/*
+*/package-lock.json
 addons/*

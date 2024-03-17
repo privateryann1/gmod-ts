@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "lib": ["es6"],
+        "typeRoots": ["@types"],
+        "types": ["gmod-types"],
+        "skipLibCheck": true
+    },
+    "tstl": {
+        "luaTarget": "5.1",
+    }
+}
